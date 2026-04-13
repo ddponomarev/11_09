@@ -61,6 +61,6 @@ select * from test_table;
 *2) Результата вывода команды на реплике ```select * from test_table;```.*
 
 
-![Рисунок 1.](https://github.com/ddponomarev/11_07/blob/main/img/z1.png)
+![Рисунок 1.](https://github.com/ddponomarev/11_09/blob/main/img/z1.png)
 
-![Рисунок 2.](https://github.com/ddponomarev/11_07/blob/main/img/z2.png)
+![Рисунок 2.](https://github.com/ddponomarev/11_09/blob/main/img/z2.png)
